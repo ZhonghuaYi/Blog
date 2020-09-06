@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128.013" height="128.013" viewBox="0 0 524 524">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b64627;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 300px;
+        fill: #fff;
+        font-family: DengXian;
+      }
+    </style>
+  </defs>
+  <path id="多边形_1" data-name="多边形 1" class="cls-1" d="M499.468,392.364l-226.69,131.7L45.311,393.7,44.532,131.635,271.222-.068,498.689,130.3Z"/>
+  <text id="枫" class="cls-2" x="114" y="354.631">枫</text>
+</svg>
